@@ -209,6 +209,12 @@ nav {
 }
 
 
+@media (max-width: 767.8) {
+    .mobile-c {
+        border-left: none;
+        border-right: none;
+    }
+}
 /* IMAGE FRAMES */
 .frame {
     width: 90%;
